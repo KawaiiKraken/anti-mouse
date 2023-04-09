@@ -1,5 +1,5 @@
 # no-mouse
-made a few apps to practice c\
+made a few apps to practice c
 
 movemouse allows for controlling the cursor via the keyboard\
 binds:\
