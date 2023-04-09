@@ -77,7 +77,7 @@ void move_mouse(int scancode, int state){
       xdo_click_window(xdo, CURRENTWINDOW, 1); // left click
     }
     if (scancode == 19){ // case r
-      xdo_click_window(xdo, CURRENTWINDOW, 2); // right click
+      xdo_click_window(xdo, CURRENTWINDOW, 3); // right click
     }
   }
   xdo_free(xdo);
