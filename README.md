@@ -14,7 +14,7 @@ binds:\
   c - left click\
   r - right click\
   Scr_Lock - toggle normal and mouse mode\
-  Pause/Break - kills the app\
+  Pause/Break - kills the app
 
 intercept just types normally until Scr_Lock is pressed, then it types in a weird to cyrillic conversion (thats how i type)\
 pause/break to stop
